@@ -16,7 +16,7 @@
 
 ## Проекты
 
-# Проект Excel
+### Проект Excel
 <p>Юнит-экономика онлайн-кинотеатра</p>
 <p>Что нужно было сделать:<p>
 <ol>
@@ -37,7 +37,7 @@
 
 > <a href="https://docs.google.com/spreadsheets/d/19AqnMj7gazDpz2fDCO7V0sS4-jmAUflb/edit?usp=sharing&ouid=109947812492977975303&rtpof=true&sd=true">Юнит-экономика онлайн-кинотеатра</a>
   
-# Проект SQL
+### Проект SQL
 <p>Моделирование изменения балансов студентов онлайн-школы</p>
 <p>Что нужно было сделать:<p>
 <ol>
@@ -59,7 +59,7 @@
 >  <li><a href="https://docs.google.com/spreadsheets/d/15Xebxu7B3vLaH62THajXehQ_3lt8loWw/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Балансы по датам</a></li>
 >  <li><a href="https://docs.google.com/document/d/1T-NKfbX0ZBrguZF-ughp-DFOA0lREWWi/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Вопросы по данным</a></li>
 
-# Проект Phyton
+### Проект Phyton
 <p>Через анализ А/Б теста провести исследование альтернативного метода воздействия на клиентские покупки с помощью пуш-уведомлений.</p> 
 <p>Что нужно было сделать:<p>
 <ol>
