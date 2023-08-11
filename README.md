@@ -56,6 +56,29 @@
 >  <li><a href="https://docs.google.com/spreadsheets/d/1N_doKM92E8gvRkYH9-KIh60Q65d4STgT/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Балансы учеников</a></li>
 >  <li><a href="https://docs.google.com/spreadsheets/d/15Xebxu7B3vLaH62THajXehQ_3lt8loWw/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Балансы по датам</a></li>
 >  <li><a href="https://docs.google.com/document/d/1T-NKfbX0ZBrguZF-ughp-DFOA0lREWWi/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Вопросы по данным</a></li>
+
+<p>Проект Phyton: Через анализ А/Б теста провести исследование альтернативного метода воздействия на клиентские покупки с помощью пуш-уведомлений.</p> 
+<p>Что нужно было сделать:<p>
+<ol>
+  <li>Задача №1. Очистить исходные данные с учетом условий дизайна эксперимента. Построить таблицу, которая будет в удобной форме хранить результаты АБ Теста.</li>
+  <li>Задача №2. Вычислить статистические критерии тестирования с учетом запрошенных таргет-метрик. Провести необходимые сегментации. Разложить выходные данные по трем исходам теста: положительный, отрицательный, нейтральный. Выгрузить в Excel</li>
+  <li>Задача №3. На основании созданного Excel файла построить калькулятор для обработки каждого из исходов в виде подсчета потенциальных дополнительных выгоды/убытков от введения новой системы уведомлений, а также вычисление необходимого числа наблюдений для тех объектов, где итоговых данных было недостаточно для обоснованного отнесения их результата в ту или иную сторону.</li>
+</ol>
+
+<p>Сделал:<p>
+<ol>
+  <li>Написан скрипт на Phyton для решения задач №1 и №2, сделана визуализация распределения разницы от изменения вида уведомления по средним платежам с сегментацией по городам</li>
+  <li>На выходе одна общая таблица и две вспомогательные в качестве сводных, на основе общей. Выгружены в excel и построены графики.</li>
+  <li>Во всех трех таблицах на каждом листе размещен свой калькулятор, согласно требуемого от каждого из них функционала.</li>
+</ol>
+
+>  <li><a href="https://drive.google.com/drive/folders/10G03m2UBBeW8-P8nYxvuw_0Lhqch8a-x?usp=sharing">Phyton проект</a></li>
+>  <li><a href="https://docs.google.com/spreadsheets/d/1yDMmCL4hErtDarPjAfTm12ksG2RfomDn/edit?usp=sharing&ouid=109947812492977975303&rtpof=true&sd=true">Полные балансы</a></li>
+>  <li><a href="https://docs.google.com/spreadsheets/d/1N_doKM92E8gvRkYH9-KIh60Q65d4STgT/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Балансы учеников</a></li>
+>  <li><a href="https://docs.google.com/spreadsheets/d/15Xebxu7B3vLaH62THajXehQ_3lt8loWw/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Балансы по датам</a></li>
+>  <li><a href="https://docs.google.com/document/d/1T-NKfbX0ZBrguZF-ughp-DFOA0lREWWi/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Вопросы по данным</a></li>
  
 ## Контактная информация
 - Email: anton.shalin@gmail.com
+- Tel: +79025666002
+- Telegram: https://t.me/anton_shalin
