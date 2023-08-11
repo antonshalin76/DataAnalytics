@@ -31,7 +31,7 @@
   <li>Проанализирована динамика первых просмотров. Отмечен эффект отсутствия реального пользования сервисом после подключения к нему.</li>
   <li>Проанализирована контент на предмет его потребления по абонентам и географии. Определены пути его оптимизации.</li>
   <li>На основе анализа возвращаемости клиентов к сервису выдвинуты гипотезы по качеству контента и тарифной политики сервиса. Предложены корректировки по ним.</li>
-  <li>Собран юнит-калькулятор с указанием ключевых метрик, требующих корректировки и значения по величине этих коррекций. Их исполнение приведет к исправлению маржинальности сервиса с текущих -93% до прибыльных +25%./li>
+  <li>Собран юнит-калькулятор с указанием ключевых метрик, требующих корректировки и значения по величине этих коррекций. Их исполнение приведет к исправлению маржинальности сервиса с текущих -93% до прибыльных +25%.</li>
 </ol>
 
 > <a href="https://docs.google.com/spreadsheets/d/19AqnMj7gazDpz2fDCO7V0sS4-jmAUflb/edit?usp=sharing&ouid=109947812492977975303&rtpof=true&sd=true">Юнит-экономика онлайн-кинотеатра</a>
@@ -73,10 +73,6 @@
 </ol>
 
 >  <li><a href="https://drive.google.com/drive/folders/10G03m2UBBeW8-P8nYxvuw_0Lhqch8a-x?usp=sharing">Phyton проект</a></li>
->  <li><a href="https://docs.google.com/spreadsheets/d/1yDMmCL4hErtDarPjAfTm12ksG2RfomDn/edit?usp=sharing&ouid=109947812492977975303&rtpof=true&sd=true">Полные балансы</a></li>
->  <li><a href="https://docs.google.com/spreadsheets/d/1N_doKM92E8gvRkYH9-KIh60Q65d4STgT/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Балансы учеников</a></li>
->  <li><a href="https://docs.google.com/spreadsheets/d/15Xebxu7B3vLaH62THajXehQ_3lt8loWw/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Балансы по датам</a></li>
->  <li><a href="https://docs.google.com/document/d/1T-NKfbX0ZBrguZF-ughp-DFOA0lREWWi/edit?usp=share_link&ouid=109947812492977975303&rtpof=true&sd=true">Вопросы по данным</a></li>
  
 ## Контактная информация
 - Email: anton.shalin@gmail.com
